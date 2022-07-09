@@ -1,0 +1,80 @@
+body
+{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1
+{
+    font-weight: bolder;
+    margin-top: 10%;
+    margin-right:25%;
+    margin-left: 25%;
+    color: whitesmoke;
+    font-size: 50px;
+}
+p
+{
+    color: aliceblue;
+    margin-top: 0%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.center
+{
+    text-align: center;
+}
+header{
+    width: 100vw;
+    height: 80vh;
+    background-image: url(file:///Users/rayhanchowdhury/Downloads/donate-today-main/images/donation13.jpg);
+    background-position: bottom;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.link-button
+{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 8px 15px;
+    color: whitesmoke;
+    font-weight: 700;
+    border-radius: 30px;
+    align-items: center;
+
+}
+.header-cont
+{
+margin-bottom : 150px;
+color: whitesmoke;
+text-align: center;
+}
+.line
+{
+    width: 150px;
+    height: 4px;
+    margin: 10px auto;
+    border-radius: 5px;
+}
+
+h2
+{
+    font-weight: bolder;
+    color: black;
+    margin-top: 5%;
+    margin-right:25%;
+    margin-left: 25%;
+    font-size: 30px;
+    text-align: center;
+}
+.color
+{
+    color: rgb(117, 125, 139);
+    margin-top: 0%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
